@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\Battleship\Battleship_client\bin\Debug\Battleship_client.exe.config
+C:\Users\Administrator\source\repos\Battleship\Battleship_client\bin\Debug\Battleship_client.exe
+C:\Users\Administrator\source\repos\Battleship\Battleship_client\bin\Debug\Battleship_client.pdb
+C:\Users\Administrator\source\repos\Battleship\Battleship_client\obj\Debug\Battleship_client.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Battleship\Battleship_client\obj\Debug\Battleship_client.exe
+C:\Users\Administrator\source\repos\Battleship\Battleship_client\obj\Debug\Battleship_client.pdb
+C:\Users\Administrator\source\repos\Battleship\Battleship_client\obj\Debug\Battleship_client.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\Battleship\Battleship_client\bin\Debug\UtilsLib.dll
+C:\Users\Administrator\source\repos\Battleship\Battleship_client\bin\Debug\UtilsLib.pdb
+C:\Users\Administrator\source\repos\trunk201801\students\wangzhi\Battleship\Battleship_client\obj\Debug\Battleship_client.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\trunk201801\students\wangzhi\Battleship\Battleship_client\bin\Debug\Battleship_client.exe.config
+C:\Users\Administrator\source\repos\trunk201801\students\wangzhi\Battleship\Battleship_client\bin\Debug\Battleship_client.exe
+C:\Users\Administrator\source\repos\trunk201801\students\wangzhi\Battleship\Battleship_client\bin\Debug\Battleship_client.pdb
+C:\Users\Administrator\source\repos\trunk201801\students\wangzhi\Battleship\Battleship_client\bin\Debug\UtilsLib.dll
+C:\Users\Administrator\source\repos\trunk201801\students\wangzhi\Battleship\Battleship_client\bin\Debug\UtilsLib.pdb
+C:\Users\Administrator\source\repos\trunk201801\students\wangzhi\Battleship\Battleship_client\obj\Debug\Battleship_client.exe
+C:\Users\Administrator\source\repos\trunk201801\students\wangzhi\Battleship\Battleship_client\obj\Debug\Battleship_client.pdb

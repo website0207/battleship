@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\Battleship\UtilsLib\bin\Debug\UtilsLib.dll
+C:\Users\Administrator\source\repos\Battleship\UtilsLib\bin\Debug\UtilsLib.pdb
+C:\Users\Administrator\source\repos\Battleship\UtilsLib\obj\Debug\UtilsLib.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Battleship\UtilsLib\obj\Debug\UtilsLib.dll
+C:\Users\Administrator\source\repos\Battleship\UtilsLib\obj\Debug\UtilsLib.pdb
+C:\Users\Administrator\source\repos\Battleship\UtilsLib\obj\Debug\UtilsLib.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\trunk201801\students\wangzhi\Battleship\UtilsLib\bin\Debug\UtilsLib.dll
+C:\Users\Administrator\source\repos\trunk201801\students\wangzhi\Battleship\UtilsLib\bin\Debug\UtilsLib.pdb
+C:\Users\Administrator\source\repos\trunk201801\students\wangzhi\Battleship\UtilsLib\obj\Debug\UtilsLib.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\trunk201801\students\wangzhi\Battleship\UtilsLib\obj\Debug\UtilsLib.dll
+C:\Users\Administrator\source\repos\trunk201801\students\wangzhi\Battleship\UtilsLib\obj\Debug\UtilsLib.pdb
+C:\Users\Administrator\source\repos\trunk201801\students\wangzhi\Battleship\UtilsLib\obj\Debug\UtilsLib.csprojResolveAssemblyReference.cache
